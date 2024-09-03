@@ -1,0 +1,8 @@
+/Users/denisivan/Documents/Java-Intellij/ems-backend/src/main/java/com/project/ems/EmsBackendApplication.java
+/Users/denisivan/Documents/Java-Intellij/ems-backend/src/main/java/com/project/ems/controller/EmployeeController.java
+/Users/denisivan/Documents/Java-Intellij/ems-backend/src/main/java/com/project/ems/dto/EmployeeDTO.java
+/Users/denisivan/Documents/Java-Intellij/ems-backend/src/main/java/com/project/ems/entity/Employee.java
+/Users/denisivan/Documents/Java-Intellij/ems-backend/src/main/java/com/project/ems/mapper/EmployeeMapper.java
+/Users/denisivan/Documents/Java-Intellij/ems-backend/src/main/java/com/project/ems/repository/EmployeeRepository.java
+/Users/denisivan/Documents/Java-Intellij/ems-backend/src/main/java/com/project/ems/service/EmployeeService.java
+/Users/denisivan/Documents/Java-Intellij/ems-backend/src/main/java/com/project/ems/service/impl/EmployeeServiceImpl.java
