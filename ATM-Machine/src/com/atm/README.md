@@ -1,4 +1,4 @@
-<h1>Descriere</h1>
+<h1>Description</h1>
 <p>This Java project simulates a simple ATM (Automated Teller Machine) system that allows users to view their available balance, withdraw money, deposit money, and view their transaction history.</p>
 <h1>Features</h1>
 <h3>View balance</h3>
