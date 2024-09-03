@@ -1,0 +1,14 @@
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/ShopApplication.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/controller/ProductController.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/controller/TestController.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/model/dto/AddBillDTO.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/model/dto/AddProductDTO.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/model/dto/BillDTO.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/model/dto/EditProductDTO.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/model/dto/ProductDTO.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/model/entity/Bill.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/model/entity/Product.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/repository/BillRepository.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/repository/ProductRepository.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/service/BillService.java
+/Users/denisivan/Documents/Java-Intellij/shop/src/main/java/com/ibm/practica/shop/service/ProductService.java

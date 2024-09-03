@@ -1,0 +1,16 @@
+com/ibm/practica/shop/model/dto/BillDTO.class
+com/ibm/practica/shop/model/entity/Bill$BillBuilder.class
+com/ibm/practica/shop/model/dto/EditProductDTO.class
+com/ibm/practica/shop/controller/TestController.class
+com/ibm/practica/shop/ShopApplication.class
+com/ibm/practica/shop/model/entity/Product.class
+com/ibm/practica/shop/model/entity/Bill.class
+com/ibm/practica/shop/controller/ProductController.class
+com/ibm/practica/shop/model/dto/ProductDTO.class
+com/ibm/practica/shop/model/entity/Product$ProductBuilder.class
+com/ibm/practica/shop/model/dto/AddProductDTO.class
+com/ibm/practica/shop/service/BillService.class
+com/ibm/practica/shop/repository/ProductRepository.class
+com/ibm/practica/shop/repository/BillRepository.class
+com/ibm/practica/shop/model/dto/AddBillDTO.class
+com/ibm/practica/shop/service/ProductService.class
