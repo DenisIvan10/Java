@@ -118,21 +118,6 @@ public class Main {
 		}}
 	}
 	
-	public static void dataCalendaristica(ArrayList<LinieMetrou> liniiMetrou, LocalDate data1, LocalDate data2) {
-		double nrMaximCalatorii = 0.0d;
-		for(var linie:liniiMetrou) {
-			for(var lin:linie.getStatii()) {
-				if(data1.isBefore(data2)) {
-					nrMaximCalatorii += lin.getNumarCalatorii();
-					System.out.println("Nr calatorii in data1: "+nrMaximCalatorii);
-				}
-				else {				
-					System.out.println("Nr calatorii in data2: "+nrMaximCalatorii);
-				}
-			}
-		}
-	}
-	
 	public static void main(String[] args) {
 		ArrayList<LinieMetrou> liniiMetrou = citireDate();
 		System.out.println(liniiMetrou);
@@ -140,6 +125,5 @@ public class Main {
 		afisareInFisier(liniiMetrou);	
 		mapaStatii(liniiMetrou);
 		statiiValide(liniiMetrou);
-		dataCalendaristica(liniiMetrou, LocalDate.of(2024, 01, 01), LocalDate.of(2024, 02, 02));
 	}
 }
