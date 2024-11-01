@@ -1,0 +1,2 @@
+<h1>Java Examen</h1>
+<p>In cadrul sistemului de administrare a unei retele de metrou, se doreste implementarea unui sistem de monitorizare a numarului de calatorii pe diferite rute. Linia de metrou se reprezinta printr-un id unic si o lista de statii aflate pe acest traseu. O statie are o denumire in acesta retea si contine informatii despre numarul de calatorii care frecventeaza in medie acesta statie pe zi.</p>
