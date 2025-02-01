@@ -13,10 +13,6 @@
 <ul>
   <li>Removes a book from the inventory based on its title</li>
 </ul>
-<h3>Manage Orders</h3>
-<ul>
-  <li>Handles customer orders and order details</li>
-</ul>
 <h3>Controller</h3>
 <ul>
   <li>Manages HTTP requests related to books and orders</li>
@@ -29,8 +25,8 @@
 </ul>
 <h3>Requests</h3>
 <ul>
-  <li>GET /books - No parameters required - Displays all the books in the bookstore that we add from the addBooks page. After adding, you can see the books in the table in the h2 database.</li>
-  <li>GET and POST /addBooks - No parameters required - Add books to the bookstore. We fill out the form, and then we will be redirected to the /books page where you can see the added books. After adding, you can see the books in the table in the h2 database.</li>
-  <li>GET and POST /deleteBooks - No parameters required - Delete an added book, which is present in the books page by name. We enter in the form the name of the book we want to delete, then we will be redirected to the /books page where we can observe the deletion of the book. After deletion, you can also see in the table in the h2 database how the respective book was deleted.</li>
+  <li>GET /books - No parameters required - Displays all the books in the bookstore that we add from the addBooks page. After adding, you can see the books in the table in the H2 database.</li>
+  <li>GET and POST /addBooks - No parameters required - Add books to the bookstore. We fill out the form, and then we will be redirected to the /books page where you can see the added books. After adding, you can see the books in the table in the H2 database.</li>
+  <li>GET and POST /deleteBooks - No parameters required - Delete an added book, which is present in the books page by name. We enter in the form the name of the book we want to delete, then we will be redirected to the /books page where we can observe the deletion of the book. After deletion, you can also see in the table in the H2 database how the respective book was deleted.</li>
   <li>GET /orders - No parameters required - It displays the commands hardcoded by me in the code, without being connected to a table in the database.</li>
 </ul>
