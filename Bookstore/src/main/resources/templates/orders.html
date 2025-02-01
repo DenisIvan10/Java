@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>All Orders</title>
+</head>
+<body>
+    <h1>All Orders in Our Bookstore</h1>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Order ID</th>
+                <th>Customer</th>
+                <th>Order Date</th>
+                <th>Book Title</th>
+                <th>Quantity</th>
+                <th>Total Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr th:each="order : ${orders}">
+                <td th:text="${order.id}">Order ID</td>
+                <td th:text="${order.orderDate}">Order Date</td>
+                <td th:text="${order.customer.name}">Customer</td>
+			
+				<td th:each="item : ${order.orderItems}">
+					<span th:text="${item.book.title}">Book Title</span>
+				</td>
+				<td th:each="item : ${order.orderItems}">
+					<span th:text="${item.quantity}">Quantity</span>
+				</td>
+				<td th:each="item : ${order.orderItems}">
+					<span th:text="${item.totalPrice}">Total Price</span>
+				</td>
+					  
+            </tr>			
+        </tbody>
+    </table>
+</body>
+</html>
