@@ -1,1 +1,2 @@
-<h1>Hello</h1>
+<h1>Description</h1>
+<p>The Bookstore Application is a Java-based web application built using Spring Boot and Thymeleaf. It allows users to browse, add, and delete books from a bookstore inventory. The application also supports order management, including customer details and order tracking. This application was my final project for Generatia Tech Java course and based on it I got my certification. </p>
